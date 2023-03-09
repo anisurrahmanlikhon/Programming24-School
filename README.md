@@ -1,5 +1,5 @@
 # Programming24-School
-Programming24 School is a blog for programming. Manual code tracing is when the programmer interprets the results of each line of code and keeps track by hand of the effect of each statement. This type of code tracing is often faster than using a debugger to step through (trace) the execution of a program. 
+Programming24 School is a blog for programming. C Programming Manual Tracing is when the programmer interprets the results of each line of code and keeps track by hand of the effect of each statement. This type of code tracing is often faster than using a debugger to step through (trace) the execution of a program. 
 
 C Programming Manual Tracing , and you will learn about them in a later lesson. While manually tracing code is more error prone than using a debugger tool, it is a skill that all good programmers possess. 
 
