@@ -6,6 +6,3 @@ int main() {
   short  s = j;
   printf("%i %i %i %u\n", i, j, s, e);
 }
-
-
-
