@@ -8,8 +8,3 @@ int main() {
   }
   printf("final value: %i\n", i);
 }
-
-
-
-
-
